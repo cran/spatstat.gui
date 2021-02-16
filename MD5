@@ -1,5 +1,6 @@
-7d10fc759bad3a8cb809db0232992025 *DESCRIPTION
-a4785488ba625d7fe08ed6cac75dd00d *NAMESPACE
+404ba92f713407101aff7769f53c3181 *DESCRIPTION
+fb28f69dea6a261b493f74b7728c93f7 *NAMESPACE
+4e7f71ae025a7ef29d0984c616539f53 *NEWS
 f02ccd8801a7131c6a0a58c1eaf07e75 *R/RCS/iplot.R,v
 5438e5151c2727401ce572942fc568ee *R/RCS/iplotlayered.R,v
 a01eaba0fe6833c1e5d0917468f9f93d *R/RCS/iplotlinnet.R,v
@@ -9,7 +10,7 @@ b4d525794889935825abeeaa317083d9 *R/RCS/istat.R,v
 bf6b5ac3ce13941ab59b9230e1214e88 *R/iplotlinnet.R
 116aaea4a29123e75bd8124f026589d8 *R/istat.R
 ac9a8dbbb8d3e4f4680328751c1edb8d *man/iplot.Rd
-d4eedc08555617b5d843c24be7e446aa *man/istat.Rd
+dc0549bad999268b3530a5c4069e9a64 *man/istat.Rd
 f94a76d6a8ef44d9f435717ea98adc33 *man/macros/defns.Rd
 d24ac78ef2f4c2c40951d637398997cd *man/spatstat.gui-internal.Rd
 2f4fec2817b4aedf3c68f222fb7cc86d *man/spatstat.gui-package.Rd
